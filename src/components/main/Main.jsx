@@ -13,7 +13,7 @@ const Main = () => {
             <input type="text" name="username" placeholder="#3923943294" />
             <p className="password">Введите свой пароль:</p>
             <input type="text" name="name" placeholder="********"/>
-            <Link to="/forgotPage" className="forgotPassword">Забыли пароль</Link>
+            <Link to="/forgotPage" className="forgotPassword">Забыли пароль?</Link>
             <button className="singIn">Войти</button>
           </form>
         </div>
